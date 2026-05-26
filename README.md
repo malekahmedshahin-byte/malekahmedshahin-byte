@@ -66,9 +66,8 @@ I'm a Textile Engineering undergraduate with a passion for bridging **traditiona
 
 <div align="center">
 
-![Abdul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=malekahmedshahin-byte&show_icons=true&theme=dark&hide_border=true&title_color=C8A46A&icon_color=C8A46A&text_color=f0eee8&bg_color=0a0a0f)
+![Stats](https://github-readme-stats.vercel.app/api?username=malekahmedshahin-byte&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malekahmedshahin-byte&layout=compact&theme=dark&hide_border=true&title_color=C8A46A&text_color=f0eee8&bg_color=0a0a0f)
 
 </div>
 
