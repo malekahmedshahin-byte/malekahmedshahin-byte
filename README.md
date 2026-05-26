@@ -5,11 +5,31 @@
 
 *Undergraduate at Jashore University of Science & Technology*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-ahmed-41838a373)
-[![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/AbdulMalek1k)
-[![Portfolio](https://img.shields.io/badge/Portfolio-C8A46A?style=flat&logo=firefox&logoColor=white)](#)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](#)
+[
 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/malek-ahmed-41838a373)
+[
+
+![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)
+
+](https://twitter.com/AbdulMalek1k)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-C8A46A?style=flat&logo=firefox&logoColor=white)
+
+](https://malekahmedshahin-byte.github.io/Portfolio/)
+[
+
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)
+
+](https://www.researchgate.net/publication/405182936_TextileCalc_v20_A_Comprehensive_Open-Source_Python_Library_for_Textile_Engineering_Calculations)
+[
+
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)
+
+](https://www.facebook.com/share/18qGhtjehQ/)
 </div>
 
 ---
