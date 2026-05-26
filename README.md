@@ -62,14 +62,6 @@ I'm a Textile Engineering undergraduate with a passion for bridging **traditiona
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=malekahmedshahin-byte&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
-
-
-</div>
 
 ---
 
