@@ -125,11 +125,11 @@
 
 <!-- GitHub Analytics -->
 <h2 align="center">GitHub Live Analytics</h2>
-
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=malekahmedshahin-byte&show_icons=true&theme=dark&bg_color=09090b&border_color=27272a&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malekahmedshahin-byte&layout=compact&theme=dark&bg_color=09090b&border_color=27272a&title_color=ffffff&text_color=a1a1aa"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=malekahmedshahin-byte&show_icons=true&theme=dark&bg_color=09090b&border_color=27272a&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=malekahmedshahin-byte&layout=compact&theme=dark&bg_color=09090b&border_color=27272a&title_color=ffffff&text_color=a1a1aa"/>
 </p>
+
 
 <p align="center">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=malekahmedshahin-byte&theme=dark&background=09090b&border=27272a&stroke=ffffff&ring=a1a1aa&fire=ffffff&currStreakNum=ffffff" />
