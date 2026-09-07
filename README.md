@@ -1,26 +1,26 @@
-<!-- Dynamic Animated Header Banner -->
+<!-- Animated Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=09090b&customColorList=18181b,27272a,3f3f46&height=220&section=header&text=Abdul%20Malek&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
-<!-- Dynamic Typing SVG Line -->
+<!-- Animated Dynamic Typing Title -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Machine+Learning+%26+Deep+Learning+Researcher;Creator+of+TextileCalc+%26+DyemindAI;Inverse+Material+Design+%26+SaaS+Optimization" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Real-Time Metrics & Followers Badges -->
+<!-- Live Analytics Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malekahmedshahin-byte&color=27272a&style=for-the-badge&label=VISITS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=malekahmedshahin-byte&color=27272a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/malekahmedshahin-byte?style=for-the-badge&color=18181b&labelColor=09090b&logo=github&logoColor=white" alt="Followers" />
   <img src="https://img.shields.io/github/stars/malekahmedshahin-byte?style=for-the-badge&color=27272a&labelColor=09090b&logo=github&logoColor=white" alt="Stars" />
 </p>
 
 ---
 
-<!-- Professional Social Networks -->
-<h3 align="center">Professional Networks</h3>
+<!-- Social Connections -->
+<h3 align="center">Social Networks</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/malek-ahmed-41838a373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,41 +41,18 @@
 
 ---
 
-<!-- Machine Learning Architecture Visual Pipeline -->
-<h2 align="center">Machine Learning Research and Deployment Pipeline</h2>
+<!-- Animated Machine Learning & Deep Learning Pipeline -->
+<h2 align="center">Live Machine Learning Workflow Execution</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="30%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/STAGE_01-DATA_ENG-27272a?style=for-the-badge" /><br><br>
-      <b>Feature Engineering</b><br>
-      <sub>Multi-variable Parameter Screening</sub><br>
-      <sub>Dataset Normalization</sub>
-    </td>
-    <td width="5%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/-%E2%86%92-000000?style=for-the-badge" />
-    </td>
-    <td width="30%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/STAGE_02-DEEP_LEARNING-27272a?style=for-the-badge" /><br><br>
-      <b>Inverse Optimization</b><br>
-      <sub>Neural Model Training</sub><br>
-      <sub>Color & Property Prediction</sub>
-    </td>
-    <td width="5%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/-%E2%86%92-000000?style=for-the-badge" />
-    </td>
-    <td width="30%" align="center" valign="top">
-      <img src="https://img.shields.io/badge/STAGE_03-SAAS_RELEASE-27272a?style=for-the-badge" /><br><br>
-      <b>Production Engine</b><br>
-      <sub>Cross-Platform Deployment</sub><br>
-      <sub>CLI & API Integration</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1200&color=A1A1AA&background=09090b&center=false&vCenter=true&multiline=true&width=750&height=140&lines=%24+python+pipeline.py+--stage+1%3A+Data+Engineering;%5B%2B%5D+Extracting+Parameters...+Normalizing+Feature+Vectors...;%24+python+pipeline.py+--stage+2%3A+Deep+Learning+Training;%5B%2B%5D+Optimizing+PyTorch%2FTensorFlow+Inverse+Models...+Converged.;%24+python+pipeline.py+--stage+3%3A+Production+Deployment;%5B%2B%5D+Deploying+Inference+Engine+to+Web+%26+Mobile+SaaS...+Active." alt="Animated ML Pipeline Execution" />
+  </a>
+</p>
 
 ---
 
-<!-- Interactive Featured Projects -->
+<!-- Featured Projects -->
 <h2 align="center">Featured Projects and Research</h2>
 
 <table align="center" width="100%">
@@ -83,7 +60,7 @@
     <td width="50%" valign="top">
       <h3>DyemindAI</h3>
       <p>AI-based Dye Shade color mixing pattern prediction web application for dedicated textile dye mills to minimize trial-and-error loops.</p>
-      <p><b>Stack:</b> Python, HTML, JavaScript</p>
+      <p><b>Technologies:</b> Python, HTML, JavaScript</p>
       <p>
         <a href="https://malekahmedshahin-byte.github.io/dyemind-ai/">
           <img src="https://img.shields.io/badge/Live_App-Open_Web-27272a?style=for-the-badge" />
@@ -96,7 +73,7 @@
     <td width="50%" valign="top">
       <h3>Materio</h3>
       <p>AI-driven SaaS platform designed for inverse design and optimization of advanced composite materials such as jute bio-composites.</p>
-      <p><b>Stack:</b> Python, Flutter, JavaScript, Figma</p>
+      <p><b>Technologies:</b> Python, Flutter, JavaScript, Figma</p>
       <p>
         <a href="https://apkpure.com/materio/com.abdulmalek.nty">
           <img src="https://img.shields.io/badge/Download-APK_File-27272a?style=for-the-badge" />
@@ -108,7 +85,7 @@
     <td width="50%" valign="top">
       <h3>Textile Calc Library</h3>
       <p>Dedicated Python library designed to calculate complex textile engineering mathematical problems directly from the terminal.</p>
-      <p><b>Stack:</b> Python, PyPI Architecture</p>
+      <p><b>Technologies:</b> Python</p>
       <p>
         <a href="https://github.com/malekahmedshahin-byte/TextileCalc_v1">
           <img src="https://img.shields.io/badge/PyPI-View_Package-27272a?style=for-the-badge" />
@@ -130,15 +107,15 @@
     <td colspan="2" width="100%" valign="top">
       <h3>R and D Application</h3>
       <p>Advanced machine learning computational pipeline for experimental material pre-screening and R and D workflow automation.</p>
-      <p><b>Stack:</b> Python, Flutter, JavaScript, Figma</p>
+      <p><b>Technologies:</b> Python, Flutter, JavaScript, Figma</p>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- Dynamic Skill Stack -->
-<h2 align="center">Core Frameworks and Engineering Tools</h2>
+<!-- Tech Stack -->
+<h2 align="center">Tech Stack and Frameworks</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,flutter,js,html,css,figma,git,github,vscode,linux&perline=7&theme=dark" />
@@ -146,8 +123,8 @@
 
 ---
 
-<!-- Live Real-Time Analytics -->
-<h2 align="center">Real-Time GitHub Activity</h2>
+<!-- GitHub Analytics -->
+<h2 align="center">GitHub Live Analytics</h2>
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=malekahmedshahin-byte&show_icons=true&theme=dark&bg_color=09090b&border_color=27272a&title_color=ffffff&text_color=a1a1aa&icon_color=ffffff"/>
@@ -158,7 +135,7 @@
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=malekahmedshahin-byte&theme=dark&background=09090b&border=27272a&stroke=ffffff&ring=a1a1aa&fire=ffffff&currStreakNum=ffffff" />
 </p>
 
-<!-- Dynamic Footer Wave -->
+<!-- Animated Footer Wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=09090b&customColorList=18181b,27272a,3f3f46&height=100&section=footer" width="100%" />
 </p>
